@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **avneet.ch02@gmail.com**
-- 👨‍💻 Portfolio Website:-https://portfolio-websitehttps://portfolio-website-pearl-iota-20.vercel.app/-pearl-iota-20.vercel.app/
+- 👨‍💻 Portfolio Website:-https://portfolio-website-pearl-iota-20.vercel.app/
 - 📄 Resume Link:https://drive.google.com/file/d/19BnGtTGt6fzw6aXoNepdz5Fp3-zx3ApQ/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
